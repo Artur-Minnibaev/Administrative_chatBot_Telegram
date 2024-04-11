@@ -18,3 +18,4 @@ It works based on basic async features, which allows you to quickly process data
 If you have any questions about how the bot works or are having trouble setting it up, feel free to email me, and I'd be happy to help.
 
 #### License
+This project is licensed under the [MIT License](https://github.com/Artur-Minnibaev/Administrative_chatBot_Telegram/blob/master/LICENSE).
